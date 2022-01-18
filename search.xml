@@ -1,11 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>first</title>
-    <url>/2022/01/12/first/</url>
-    <content><![CDATA[<h1 id="我是标题"><a href="#我是标题" class="headerlink" title="我是标题"></a>我是标题</h1><h2 id="我还是个标题"><a href="#我还是个标题" class="headerlink" title="我还是个标题"></a>我还是个标题</h2><h3 id="我还还还是个标题"><a href="#我还还还是个标题" class="headerlink" title="我还还还是个标题"></a>我还还还是个标题</h3>]]></content>
-  </entry>
-  <entry>
     <title>Hello World</title>
     <url>/2022/01/12/hello-world/</url>
     <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
@@ -27,6 +22,95 @@
       </categories>
       <tags>
         <tag>new</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>first</title>
+    <url>/2022/01/12/first/</url>
+    <content><![CDATA[<h1 id="我是标题"><a href="#我是标题" class="headerlink" title="我是标题"></a>我是标题</h1><h2 id="我还是个标题"><a href="#我还是个标题" class="headerlink" title="我还是个标题"></a>我还是个标题</h2><h3 id="我还还还是个标题"><a href="#我还还还是个标题" class="headerlink" title="我还还还是个标题"></a>我还还还是个标题</h3>]]></content>
+  </entry>
+  <entry>
+    <title>try</title>
+    <url>/2022/01/13/try/</url>
+    <content><![CDATA[<h1 id="我展示的是一级标题"><a href="#我展示的是一级标题" class="headerlink" title="我展示的是一级标题"></a>我展示的是一级标题</h1><h1 id="我也是一级标题"><a href="#我也是一级标题" class="headerlink" title="我也是一级标题"></a>我也是一级标题</h1><h2 id="我展示的是二级标题"><a href="#我展示的是二级标题" class="headerlink" title="我展示的是二级标题"></a>我展示的是二级标题</h2><h2 id="我也是二级标题"><a href="#我也是二级标题" class="headerlink" title="我也是二级标题"></a>我也是二级标题</h2><p>内容<br><em>斜体</em><br><em>xieti</em><br><strong>粗体</strong><br><strong>粗体</strong><br><em><strong>粗斜体</strong></em><br><del>删除线</del><br><u> 带下划线文</p>
+</u>
+
+<p>[^要注明的文字]注明的文章</p>
+<p>创建标注 [^标注]</p>
+<ul>
+<li>第一项</li>
+<li>第二项</li>
+</ul>
+<ul>
+<li>第一项</li>
+</ul>
+<ul>
+<li>第一项</li>
+</ul>
+<ol>
+<li>第一项:<ul>
+<li>第一项的第一个元素</li>
+</ul>
+</li>
+<li>第二项<ul>
+<li>第二项内容<blockquote>
+<p>区块引用</p>
+<blockquote>
+<p>第一程嵌套</p>
+<blockquote>
+<p>第二程嵌套<br>区块链使用链表</p>
+</blockquote>
+</blockquote>
+<ol>
+<li>第一项</li>
+</ol>
+<ul>
+<li>第二项</li>
+</ul>
+</blockquote>
+</li>
+</ul>
+</li>
+</ol>
+<ul>
+<li>第一项<blockquote>
+<p>区块嵌套</p>
+</blockquote>
+<figure class="highlight c"><table><tr><td class="code"><pre><span class="line">print(<span class="string">&quot;hello world&quot;</span>);</span><br><span class="line"><span class="keyword">return</span> <span class="number">0</span>;</span><br></pre></td></tr></table></figure>
+<a href="http://github.com/Abruptrainlover">github</a><br><a href="http://github.com/Abruptrainlover">http://github.com/Abruptrainlover</a><br>[Goole] [1]</li>
+</ul>
+<p><img src="C:\Users\Abruptrain\blog\source\img\preview.gif" alt="github.com"><br><gif ><br>|  表头   | 表头  |<br>|  —-  | —-  |<br>| 单元格  | 单元格 |<br>| 单元格  | 单元格 |<br>| 左对齐 | 右对齐 | 居中对齐 |<br>| :—–| —-: | :—-: |<br>| 单元格 | 单元格 | 单元格 |<br>| 单元格 | 单元格 | 单元格 |<br>使用 <kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>Del</kbd> 重启电脑<br><strong>文本加粗</strong><br>** 正常显示星号 **<br>\   反斜线<br>`   反引号</p>
+<ul>
+<li>  星号<br>_   下划线<br>{}  花括号<br>[]  方括号<br>()  小括号<h1 id="井字号"><a href="#井字号" class="headerlink" title="井字号"></a>井字号</h1></li>
+</ul>
+<ul>
+<li>  加号</li>
+</ul>
+<ul>
+<li>  减号<br>.   英文句点<br>!   感叹号<br>$…$ 或者 (…) 中的数学表达式将会在行内显示。<br>$$…$$ 或者 […] 或者 ```math 中的数学表达式将会在块内显示。</li>
+</ul>
+<p>$$<br>\begin{Bmatrix}<br>   a &amp; b \<br>   c &amp; d<br>\end{Bmatrix}<br>$$<br>$$<br>\begin{CD}<br>   A @&gt;a&gt;&gt; B \<br>@VbVV @AAcA \<br>   C @= D<br>\end{CD}<br>$$</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">graph LR</span><br><span class="line">A[方形] --&gt;B(圆角)</span><br><span class="line">    B --&gt; C&#123;条件a&#125;</span><br><span class="line">    C --&gt;|a=1| D[结果1]</span><br><span class="line">    C --&gt;|a=2| E[结果2]</span><br><span class="line">    F[横向流程图]</span><br></pre></td></tr></table></figure>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">graph LR</span><br><span class="line">A[方形] --&gt;B(圆角)</span><br><span class="line">    B --&gt; C&#123;条件a&#125;</span><br><span class="line">    C --&gt;|a=1| D[结果1]</span><br><span class="line">    C --&gt;|a=2| E[结果2]</span><br><span class="line">    F[横向流程图]</span><br></pre></td></tr></table></figure>
+<p>2、竖向流程图源码格式：</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">graph TD</span><br><span class="line">A[方形] --&gt; B(圆角)</span><br><span class="line">    B --&gt; C&#123;条件a&#125;</span><br><span class="line">    C --&gt; |a=1| D[结果1]</span><br><span class="line">    C --&gt; |a=2| E[结果2]</span><br><span class="line">    F[竖向流程图]</span><br></pre></td></tr></table></figure>
+<p>3、标准流程图源码格式：</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">st=&gt;start: 开始框</span><br><span class="line">op=&gt;operation: 处理框</span><br><span class="line">cond=&gt;condition: 判断框(是或否?)</span><br><span class="line">sub1=&gt;subroutine: 子流程</span><br><span class="line">io=&gt;inputoutput: 输入输出框</span><br><span class="line">e=&gt;end: 结束框</span><br><span class="line">st-&gt;op-&gt;cond</span><br><span class="line">cond(yes)-&gt;io-&gt;e</span><br><span class="line">cond(no)-&gt;sub1(right)-&gt;op</span><br></pre></td></tr></table></figure>
+<p>4、标准流程图源码格式（横向）：</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">st=&gt;start: 开始框</span><br><span class="line">op=&gt;operation: 处理框</span><br><span class="line">cond=&gt;condition: 判断框(是或否?)</span><br><span class="line">sub1=&gt;subroutine: 子流程</span><br><span class="line">io=&gt;inputoutput: 输入输出框</span><br><span class="line">e=&gt;end: 结束框</span><br><span class="line">st(right)-&gt;op(right)-&gt;cond</span><br><span class="line">cond(yes)-&gt;io(bottom)-&gt;e</span><br><span class="line">cond(no)-&gt;sub1(right)-&gt;op</span><br></pre></td></tr></table></figure>
+<p>5、UML时序图源码样例：</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">对象A-&gt;对象B: 对象B你好吗?（请求）</span><br><span class="line">Note right of 对象B: 对象B的描述</span><br><span class="line">Note left of 对象A: 对象A的描述(提示)</span><br><span class="line">对象B--&gt;对象A: 我很好(响应)</span><br><span class="line">对象A-&gt;对象B: 你真的好吗？</span><br></pre></td></tr></table></figure>
+<p>6、UML时序图源码复杂样例：</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">Title: 标题：复杂使用</span><br><span class="line">对象A-&gt;对象B: 对象B你好吗?（请求）</span><br><span class="line">Note right of 对象B: 对象B的描述</span><br><span class="line">Note left of 对象A: 对象A的描述(提示)</span><br><span class="line">对象B--&gt;对象A: 我很好(响应)</span><br><span class="line">对象B-&gt;小三: 你好吗</span><br><span class="line">小三--&gt;&gt;对象A: 对象B找我了</span><br><span class="line">对象A-&gt;对象B: 你真的好吗？</span><br><span class="line">Note over 小三,对象B: 我们是朋友</span><br><span class="line">participant C</span><br><span class="line">Note right of C: 没人陪我玩</span><br></pre></td></tr></table></figure>
+<p>7、UML标准时序图样例：</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">%% 时序图例子,-&gt; 直线，--&gt;虚线，-&gt;&gt;实线箭头</span><br><span class="line">  sequenceDiagram</span><br><span class="line">    participant 张三</span><br><span class="line">    participant 李四</span><br><span class="line">    张三-&gt;王五: 王五你好吗？</span><br><span class="line">    loop 健康检查</span><br><span class="line">        王五-&gt;王五: 与疾病战斗</span><br><span class="line">    end</span><br><span class="line">    Note right of 王五: 合理 食物 &lt;br/&gt;看医生...</span><br><span class="line">    李四--&gt;&gt;张三: 很好!</span><br><span class="line">    王五-&gt;李四: 你怎么样?</span><br><span class="line">    李四--&gt;王五: 很好!</span><br></pre></td></tr></table></figure>
+<p>8、甘特图样例：</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">%% 语法示例</span><br><span class="line">        gantt</span><br><span class="line">        dateFormat  YYYY-MM-DD</span><br><span class="line">        title 软件开发甘特图</span><br><span class="line">        section 设计</span><br><span class="line">        需求                      :done,    des1, 2014-01-06,2014-01-08</span><br><span class="line">        原型                      :active,  des2, 2014-01-09, 3d</span><br><span class="line">        UI设计                     :         des3, after des2, 5d</span><br><span class="line">    未来任务                     :         des4, after des3, 5d</span><br><span class="line">        section 开发</span><br><span class="line">        学习准备理解需求                      :crit, done, 2014-01-06,24h</span><br><span class="line">        设计框架                             :crit, done, after des2, 2d</span><br><span class="line">        开发                                 :crit, active, 3d</span><br><span class="line">        未来任务                              :crit, 5d</span><br><span class="line">        耍                                   :2d</span><br><span class="line">        section 测试</span><br><span class="line">        功能测试                              :active, a1, after des3, 3d</span><br><span class="line">        压力测试                               :after a1  , 20h</span><br><span class="line">        测试报告                               : 48h</span><br></pre></td></tr></table></figure>]]></content>
+      <categories>
+        <category>try</category>
+      </categories>
+      <tags>
+        <tag>try</tag>
       </tags>
   </entry>
 </search>
