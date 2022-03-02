@@ -1,38 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Hello World</title>
-    <url>/2022/01/12/hello-world/</url>
-    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
-]]></content>
-      <categories>
-        <category>new</category>
-      </categories>
-      <tags>
-        <tag>new</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>first</title>
     <url>/2022/01/12/first/</url>
-    <content><![CDATA[<h1 id="我是标题"><a href="#我是标题" class="headerlink" title="我是标题"></a>我是标题</h1><h2 id="我还是个标题"><a href="#我还是个标题" class="headerlink" title="我还是个标题"></a>我还是个标题</h2><h3 id="我还还还是个标题"><a href="#我还还还是个标题" class="headerlink" title="我还还还是个标题"></a>我还还还是个标题</h3>]]></content>
+    <content><![CDATA[<p>$$<br>\ lim _{x \to \infty} \exp(-x)=0<br>$$</p>
+<h1 id="我是标题"><a href="#我是标题" class="headerlink" title="我是标题"></a>我是标题</h1><span id="more"></span>
+
+<h2 id="我还是个标题"><a href="#我还是个标题" class="headerlink" title="我还是个标题"></a>我还是个标题</h2><figure class="highlight c"><table><tr><td class="code"><pre><span class="line"><span class="function"><span class="keyword">int</span> <span class="title">main</span><span class="params">(<span class="keyword">void</span>)</span></span>&#123;</span><br><span class="line">    print(<span class="string">&quot;Hello world.&quot;</span>);</span><br><span class="line">    <span class="keyword">return</span> <span class="number">0</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+
+<h2 id=""><a href="#" class="headerlink" title=""></a><!--分割线--></h2><p>$$<br>586-9333<br>$$</p>
+<blockquote>
+<h2 id="是个标题"><a href="#是个标题" class="headerlink" title="是个标题"></a>是个标题</h2></blockquote>
+<h3 id="我还是个标题-1"><a href="#我还是个标题-1" class="headerlink" title="我还是个标题"></a>我还是个标题</h3><ul>
+<li><input disabled="" type="checkbox"> <h3 id="我还是标题"><a href="#我还是标题" class="headerlink" title="我还是标题"></a>我还是标题</h3></li>
+</ul>
+<ul>
+<li><p>ajfk</p>
+<p>[^芜湖]: </p>
+<p>[]: </p>
+</li>
+<li><p>fnfjka</p>
+</li>
+<li><p>dsfjkjk</p>
+</li>
+</ul>
+<p>$$<br>\begin{align*}<br>y = y(x,t) &amp;= A e^{i\theta} \<br>&amp;= A (\cos \theta + i \sin \theta) \<br>&amp;= A (\cos(kx - \omega t) + i \sin(kx - \omega t)) \<br>&amp;= A\cos(kx - \omega t) + i A\sin(kx - \omega t)  \<br>&amp;= A\cos \Big(\frac{2\pi}{\lambda}x - \frac{2\pi v}{\lambda} t \Big) + i A\sin \Big(\frac{2\pi}{\lambda}x - \frac{2\pi v}{\lambda} t \Big)  \<br>&amp;= A\cos \frac{2\pi}{\lambda} (x - v t) + i A\sin \frac{2\pi}{\lambda} (x - v t)<br>\end{align*}<br>$$</p>
+<p>$ \ lim _{x \to \infty} \exp(-x)=0$</p>
+<p>$$</p>
+<p>\def\bold#1 \bold{this\ is\ now\ bold}<br>$$<br>\def\bold#1 \bold{this\ is\ now\ bold}<br>$$<br>$$ </p>
+]]></content>
   </entry>
   <entry>
     <title>try</title>
     <url>/2022/01/13/try/</url>
-    <content><![CDATA[<h1 id="我展示的是一级标题"><a href="#我展示的是一级标题" class="headerlink" title="我展示的是一级标题"></a>我展示的是一级标题</h1><h1 id="我也是一级标题"><a href="#我也是一级标题" class="headerlink" title="我也是一级标题"></a>我也是一级标题</h1><h2 id="我展示的是二级标题"><a href="#我展示的是二级标题" class="headerlink" title="我展示的是二级标题"></a>我展示的是二级标题</h2><h2 id="我也是二级标题"><a href="#我也是二级标题" class="headerlink" title="我也是二级标题"></a>我也是二级标题</h2><p>内容<br><em>斜体</em><br><em>xieti</em><br><strong>粗体</strong><br><strong>粗体</strong><br><em><strong>粗斜体</strong></em><br><del>删除线</del><br><u> 带下划线文</p>
+    <content><![CDATA[<h1 id="我展示的是一级标题"><a href="#我展示的是一级标题" class="headerlink" title="我展示的是一级标题"></a>我展示的是一级标题</h1><h1 id="我也是一级标题"><a href="#我也是一级标题" class="headerlink" title="我也是一级标题"></a>我也是一级标题</h1><h2 id="我展示的是二级标题"><a href="#我展示的是二级标题" class="headerlink" title="我展示的是二级标题"></a>我展示的是二级标题</h2><h2 id="我也是二级标题"><a href="#我也是二级标题" class="headerlink" title="我也是二级标题"></a>我也是二级标题</h2><span id="more"></span>
+<p>内容<br><em>斜体</em><br><em>xieti</em><br><strong>粗体</strong><br><strong>粗体</strong><br><em><strong>粗斜体</strong></em><br><del>删除线</del><br><u> 带下划线文</p>
 </u>
 
 <p>[^要注明的文字]注明的文章</p>
@@ -112,5 +114,101 @@
       <tags>
         <tag>try</tag>
       </tags>
+  </entry>
+  <entry>
+    <title>Hello World</title>
+    <url>/2022/01/12/hello-world/</url>
+    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<span id="more"></span>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+]]></content>
+      <categories>
+        <category>new</category>
+      </categories>
+      <tags>
+        <tag>new</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title></title>
+    <url>/2022/03/02/%E6%A0%87%E8%AF%86%E7%AC%A6/</url>
+    <content><![CDATA[<h1 id="标识符"><a href="#标识符" class="headerlink" title="标识符"></a>标识符</h1><p><img src="C:\Users\Abruptrain\AppData\Roaming\Typora\typora-user-images\1646140415828.png" alt="1646140415828"></p>
+<p><img src="C:\Users\Abruptrain\AppData\Roaming\Typora\typora-user-images\1646140421235.png" alt="1646140421235"></p>
+]]></content>
+  </entry>
+  <entry>
+    <title></title>
+    <url>/2022/03/02/%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%E4%B8%8E%E8%BF%90%E7%AE%97%E7%AC%A6%20%E5%9F%BA%E7%A1%80/</url>
+    <content><![CDATA[<p>Java数据类型与运算符</p>
+<h2 id="数据类型"><a href="#数据类型" class="headerlink" title="数据类型"></a>数据类型</h2><p>Java语言提供了八种基本类型。六种数字类型（四个整数型，两个浮点型），一种字符类型，还有一种布尔型。</p>
+<h4 id="byte-："><a href="#byte-：" class="headerlink" title="byte****："></a><strong>byte****：</strong></h4><p>· byte 数据类型是8位、有符号的，以二进制补码表示的整数；</p>
+<p>· 最小值是 <strong>-128**<strong>（</strong></strong>-2^7**<strong>）</strong>；</p>
+<p>· 最大值是 <strong>127<strong><strong>（</strong></strong>2^7-1****）</strong>；</p>
+<p>· 默认值是 <strong>0</strong>；</p>
+<p>· byte 类型用在大型数组中节约空间，主要代替整数，因为 byte 变量占用的空间只有 int 类型的四分之一；</p>
+<p>· 例子：byte a = 100，byte b = -50。</p>
+<h4 id="short-："><a href="#short-：" class="headerlink" title="short****："></a><strong>short****：</strong></h4><p>· short 数据类型是 16 位、有符号的以二进制补码表示的整数</p>
+<p>· 最小值是 <strong>-32768**<strong>（</strong></strong>-2^15**<strong>）</strong>；</p>
+<p>· 最大值是 <strong>32767<strong><strong>（</strong></strong>2^15 - 1****）</strong>；</p>
+<p>· Short 数据类型也可以像 byte 那样节省空间。一个short变量是int型变量所占空间的二分之一；</p>
+<p>· 默认值是 <strong>0</strong>；</p>
+<p>· 例子：short s = 1000，short r = -20000。</p>
+<h4 id="int-："><a href="#int-：" class="headerlink" title="int****："></a><strong>int****：</strong></h4><p>· int 数据类型是32位、有符号的以二进制补码表示的整数；</p>
+<p>· 最小值是 <strong>-2,147,483,648**<strong>（</strong></strong>-2^31**<strong>）</strong>；</p>
+<p>· 最大值是 <strong>2,147,483,647<strong><strong>（</strong></strong>2^31 - 1****）</strong>；</p>
+<p>· 一般地整型变量默认为 int 类型；</p>
+<p>· 默认值是 <strong>0</strong> ；</p>
+<p>· 例子：int a = 100000, int b = -200000。</p>
+<h4 id="long-："><a href="#long-：" class="headerlink" title="long****："></a><strong>long****：</strong></h4><p>· long 数据类型是 64 位、有符号的以二进制补码表示的整数；</p>
+<p>· 最小值是 <strong>-9,223,372,036,854,775,808**<strong>（</strong></strong>-2^63**<strong>）</strong>；</p>
+<p>· 最大值是 <strong>9,223,372,036,854,775,807<strong><strong>（</strong></strong>2^63 -1****）</strong>；</p>
+<p>· 这种类型主要使用在需要比较大整数的系统上；</p>
+<p>· 默认值是 <strong>0L</strong>；</p>
+<p>· 例子： long a = 100000L，Long b = -200000L。<br> “L”理论上不分大小写，但是若写成”l”容易与数字”1”混淆，不容易分辩。所以最好大写。</p>
+<h4 id="float-："><a href="#float-：" class="headerlink" title="float****："></a><strong>float****：</strong></h4><p>· float 数据类型是单精度、32位、符合IEEE 754标准的浮点数；</p>
+<p>· float 在储存大型浮点数组的时候可节省内存空间；</p>
+<p>· 默认值是 <strong>0.0f</strong>；</p>
+<p>· 浮点数不能用来表示精确的值，如货币；</p>
+<p>· 例子：float f1 = 234.5<strong>f</strong>。</p>
+<p>​        注意：浮点型默认为double，float要加f标识。</p>
+<h4 id="double-："><a href="#double-：" class="headerlink" title="double****："></a><strong>double****：</strong></h4><p>· double 数据类型是双精度、64 位、符合 IEEE 754 标准的浮点数；</p>
+<p>· 浮点数的默认类型为 double 类型；</p>
+<p>· double类型同样不能表示精确的值，如货币；</p>
+<p>· 默认值是 <strong>0.0d</strong>；</p>
+<h3 id="注意事项"><a href="#注意事项" class="headerlink" title="注意事项"></a>注意事项</h3><ul>
+<li>1:有多种类型的数据混合运算时,系统首先自动将所有数据转换成容器最大的那种数据类型,然后在进行运算.</li>
+<li>2:当我们把精度大的数据类型赋值给精度小的数据类型时,会报错.反之就会进行自动类型转换.</li>
+<li>3:byte,short,char 三者之间可以进行计算,但在计算时首先转换成int 类型.(所以其计算值要付给int以及比int类型大的数据类型)</li>
+<li>4:byte short, char 不会相互自动转换.</li>
+<li>5:Boolean:不参与转换.</li>
+<li>6:自动转换原则:表达式结果的类型自动提升为 操作中最大的数据类型.</li>
+<li>7:数据细节:例如double num = 8.1/3(或者3.0);</li>
+<li>结果不为2.7,而是2.69999997. 原因:二进制计算问题.</li>
+<li>8:强制转换不进行四舍五入,而是强制删去后位 </li>
+<li>9:强制转换只能对最近的操作符使用 例如:int x = (int)(10*3.5+62.9);</li>
+</ul>
+<h2 id="运算符"><a href="#运算符" class="headerlink" title="运算符"></a>运算符</h2><h4 id="算术运算符"><a href="#算术运算符" class="headerlink" title="算术运算符"></a>算术运算符</h4><h4 id=""><a href="#" class="headerlink" title="+ - * /  % ++  - -"></a>+ - * /  % ++  - -</h4><h4 id="关系运算符"><a href="#关系运算符" class="headerlink" title="关系运算符"></a>关系运算符</h4><p>​    ==     ！=    &gt;  &lt;   &gt;=   &lt;=</p>
+<h4 id="位运算符"><a href="#位运算符" class="headerlink" title="位运算符"></a>位运算符</h4><p>​    &amp;    |   ^（取同） </p>
+<p>​    ~（反转）   </p>
+<p>​    &lt;&lt;  左移 （后接位数，例A&lt;&lt;2)       </p>
+<p>​    “&gt;&gt;”(右移)    </p>
+<p>​    &gt;&gt;&gt;(按位右移补零操作符)(与&gt;&gt;区别是补零)    </p>
+<h4 id="逻辑运算符"><a href="#逻辑运算符" class="headerlink" title="逻辑运算符"></a>逻辑运算符</h4><p>​    &amp;&amp;  逻辑与</p>
+<p>​    ||      逻辑或</p>
+<p>​    !       逻辑非</p>
+<h4 id="赋值运算符"><a href="#赋值运算符" class="headerlink" title="赋值运算符"></a>赋值运算符</h4><h4 id="其他运算符"><a href="#其他运算符" class="headerlink" title="其他运算符"></a>其他运算符</h4><p>​    &amp;&amp; 逻辑与 机制： 先判定前，前错直接结束</p>
+<h4 id="运算符优先级"><a href="#运算符优先级" class="headerlink" title="运算符优先级"></a>运算符优先级</h4><p><img src="C:\Users\Abruptrain\AppData\Roaming\Typora\typora-user-images\1646140348148.png" alt="1646140348148"></p>
+]]></content>
   </entry>
 </search>
